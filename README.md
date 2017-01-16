@@ -5,4 +5,4 @@
 * Industry Knowledge
 * Client Needs
 * Creativity (when comes to text processing and insights generation)
-* Model (Uh... quite diminshed compared to other machine learning problems such as regression prediction. LDA and Navie Bayes are two of some mostly used for unsupervised and supervised tasks respectively)
+* Model (Uh... the importance is quite diminshed compared to other machine learning problems such as regression prediction. LDA and Navie Bayes are two of some mostly used for unsupervised and supervised tasks respectively)
