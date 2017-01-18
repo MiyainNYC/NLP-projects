@@ -8,13 +8,3 @@
 * Model (Uh... the importance is quite diminshed compared to other machine learning problems such as regression prediction. LDA and Navie Bayes are two of some mostly used for unsupervised and supervised tasks respectively)
 
 
-## Results:
-
-**Topics:**
-
-![Topic Distribution](https://github.com/MiyainNYC/NLP-projects/blob/master/Customer_review_US/viz/topic_cnt.PNG) 
-
-**Model Confidence:**
-
-![Model Validate](https://github.com/MiyainNYC/NLP-projects/blob/master/Customer_review_US/viz/conf-score.PNG)
-
