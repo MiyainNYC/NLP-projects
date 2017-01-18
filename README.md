@@ -8,3 +8,7 @@
 * Model (Uh... the importance is quite diminshed compared to other machine learning problems such as regression prediction. LDA and Navie Bayes are two of some mostly used for unsupervised and supervised tasks respectively)
 
 
+**Packages this Repo used:**
+* Seaborn
+* NLTK
+* Gensim
